@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id" />
+    <item name="album_cover" type="id" />
+    <item name="song_title" type="id" />
+    <item name="artist_name" type="id" />
+    <item name="seek_bar" type="id" />
+    <item name="btn_playlist" type="id" />
+    <item name="btn_next" type="id" />
+    <item name="btn_play_pause" type="id" />
+    <item name="btn_previous" type="id" />
+    <item name="controls_layout" type="id" />
+    <item name="current_time" type="id" />
+    <item name="total_time" type="id" />
+    <item name="main_layout" type="id" />
+</resources>

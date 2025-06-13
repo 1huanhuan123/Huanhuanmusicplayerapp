@@ -11,18 +11,13 @@
 - 📊 **音乐可视化** - 多种音频可视化效果，包括波形、线条、波浪、圆形和条形
 - 🎛️ **播放控制** - 播放/暂停、上一首/下一首、进度控制
 
-## 截图
+## 效果
 
-
-如何添加应用截图:
-1. 在项目根目录创建一个screenshots文件夹
-2. 将应用截图添加到该文件夹中
-3. 使用下面的格式在README中引用这些截图:
-
-![主界面](screenshots/main_screen.jpg)
-![搜索界面](screenshots/search_screen.jpg)
-![播放列表界面](screenshots/list.jpg)
-
+<div align="center">
+  <img src="screenshots/main_screen.jpg" alt="主界面" width="250"/>
+  <img src="screenshots/search_screen.jpg" alt="搜索界面" width="250"/>
+  <img src="screenshots/list.jpg" alt="播放列表界面" width="250"/>
+</div>
 
 ## 技术栈
 

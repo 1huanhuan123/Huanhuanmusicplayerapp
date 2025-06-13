@@ -13,11 +13,10 @@
 
 ## 效果
 
-<div align="center">
-  <img src="screenshots/main_screen.jpg" alt="主界面" width="250"/>
-  <img src="screenshots/search_screen.jpg" alt="搜索界面" width="250"/>
-  <img src="screenshots/list.jpg" alt="播放列表界面" width="250"/>
-</div>
+![主界面](screenshots/main_screen.png)
+![搜索界面](screenshots/search_screen.png)
+![播放列表界面](screenshots/list.png)
+
 
 ## 技术栈
 
